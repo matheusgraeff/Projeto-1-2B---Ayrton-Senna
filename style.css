@@ -5,5 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
 body{
+ font-family: 'Poppins', sans-serif;
+}
 
+.cabecalho{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #383D58;
+    color: white;
+    display: flex;
 }
